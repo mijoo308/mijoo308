@@ -1,5 +1,5 @@
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CDFB,100:FB87FB&height=200&animation=fadeIn&section=header&fontAlign=30&text=Mijoo%20Kim&fontColor=301C53&fontSize=85" />
 <h3 align="left"><b>🐍 Tech Stack</b></h3>
 <p align="left">
 💪 : <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> &nbsp
@@ -14,7 +14,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mijoo308&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **mijoo308/mijoo308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
