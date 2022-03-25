@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CDFB,100:FB87FB&height=200&animation=fadeIn&section=header&fontAlign=30&text=Mijoo%20Kim&fontColor=301C53&fontSize=85" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC300,100:FFC300&height=200&animation=fadeIn&section=header&fontAlign=30&text=Mijoo%20Kim&fontColor=311D06&fontSize=85" />
 <h3 align="left"><b>🐍 Tech Stack</b></h3>
 <p align="left">
 💪 : <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> &nbsp
