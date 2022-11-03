@@ -1,5 +1,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC300,100:FFC300&height=200&animation=fadeIn&section=header&fontAlign=30&text=Mijoo%20Kim&fontColor=311D06&fontSize=85" />
+<h3 align="left"><b> 👀 Profile </b></h3>
+<p align="left">
+<a href="https://charming-alto-e18.notion.site/Kim-mijoo-4a22858703c04957af48e7b228cef5c7"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://charming-alto-e18.notion.site/Kim-mijoo-4a22858703c04957af48e7b228cef5c7"/></a> &nbsp
+<a href="http://www.linkedin.com/in/mijoo-kim-8b2833204"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=http://www.linkedin.com/in/mijoo-kim-8b2833204"/></a> &nbsp
+
 <h3 align="left"><b>🐍 Tech Stack</b></h3>
 <p align="left">
 💪 : <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> &nbsp
@@ -12,6 +17,8 @@
 🐣 : <img src="https://img.shields.io/badge/SpringBoot-339933?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp </p>
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mijoo308&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
