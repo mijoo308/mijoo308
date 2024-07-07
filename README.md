@@ -3,7 +3,6 @@
 <h3 align="left"><b> 👀 Profile </b></h3>
 <p align="left">
 <a href="https://sites.google.com/view/mijoo-kim"><img src="https://img.shields.io/badge/homepage-EA4335?style=flat-square&logo=googlehome&logoColor=white&link=https://sites.google.com/view/mijoo-kim"/></a> &nbsp
-<a href="https://charming-alto-e18.notion.site/Kim-mijoo-4a22858703c04957af48e7b228cef5c7"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://charming-alto-e18.notion.site/Kim-mijoo-4a22858703c04957af48e7b228cef5c7"/></a> &nbsp
 <a href="http://www.linkedin.com/in/mijoo-kim-8b2833204"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=http://www.linkedin.com/in/mijoo-kim-8b2833204"/></a> &nbsp
 
 <h3 align="left"><b>🐍 Tech Stack</b></h3>
