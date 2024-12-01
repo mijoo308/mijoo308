@@ -1,5 +1,8 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC300,100:FFC300&height=200&animation=fadeIn&section=header&fontAlign=30&text=Mijoo%20Kim&fontColor=311D06&fontSize=85" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC300,100:FFC300&height=200&animation=fadeIn&section=header&fontAlign=30&text=Mijoo%20Kim&fontColor=311D06&fontSize=85" /> 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/mijoo308&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <h3 align="left"><b> 👀 Profile </b></h3>
 <p align="left">
 <a href="https://sites.google.com/view/mijoo-kim"><img src="https://img.shields.io/badge/homepage-EA4335?style=flat-square&logo=googlehome&logoColor=white&link=https://sites.google.com/view/mijoo-kim"/></a> &nbsp
@@ -21,6 +24,7 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mijoo308&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **mijoo308/mijoo308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
